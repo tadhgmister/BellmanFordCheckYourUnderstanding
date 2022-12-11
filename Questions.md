@@ -1,4 +1,4 @@
-Here is an example for the Bellman-Ford algorithm and the counting to infinity problem, say we have this network (links A-B, B-C, C-D, D-E all have cost 1, link from A-E has cost 100)
+Here is an example for the Bellman-Ford algorithm and the counting to infinity problem, say we have this network (links A-B, B-C, C-D, D-E have cost 1,2,3,4 respectivelym and link from A-E has cost 100)
 ```
   1v    2v    3v    4v
 A --- B --- C --- D --- E
